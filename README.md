@@ -44,5 +44,6 @@ Aplikasi ini sekarang dapat diakses di :
 http://localhost:3000.
 ```
 ![Alt text](assets/images/ui.png)
-[![Watch the video]]([URL_TO_VIDEO](https://youtu.be/a9RGYtNnGa0))
+
+[![Watch the video]](https://youtu.be/a9RGYtNnGa0)
 
