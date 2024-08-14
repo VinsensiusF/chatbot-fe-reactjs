@@ -47,7 +47,11 @@ http://localhost:3000.
 
 ### 5. Video Tutorial
 Tautan video dibawah merupakan tutorial untuk menjalankan Aplikasi Chatbot - ReactJS (Front End). Klik video dibawah untuk berpindah ke laman YouTube dan melihat tutorial!
-[![How To Run The Chatbot - ReactJS Application]](https://youtu.be/a9RGYtNnGa0)
+
+[How To Run The Chatbot - ReactJS Application](https://youtu.be/a9RGYtNnGa0)
+
+
 Tautan video dibawah merupakan tutorial untuk menjalankan Aplikasi Fungsional (UI Setelah Front End dan Back End telah berjalan). Klik video dibawah untuk berpindah ke laman YouTube dan melihat tutorial!
-[![How to run the User Interface of Chatbot Application]](https://youtu.be/hI1hOTrrHNo)
+
+[How to run the User Interface of Chatbot Application](https://youtu.be/hI1hOTrrHNo)
 
