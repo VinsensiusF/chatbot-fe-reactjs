@@ -55,3 +55,68 @@ Tautan video dibawah merupakan tutorial untuk menjalankan Aplikasi Fungsional (U
 
 [How to run the User Interface of Chatbot Application](https://youtu.be/hI1hOTrrHNo)
 
+### List of Keywords:
+Greetings
+```
+Keywords: 'hello', 'hi'
+Response: "Hello! How can I assist you today?"
+```
+How Are you?
+```
+Keywords: how are you
+Response: "I am just a program, but I am here to help you!"
+```
+Ask for Bot's Name:
+
+```
+Keywords: your name
+Response: "I am your virtual assistant. How can I assist you today?"
+```
+Current Time:
+
+```
+Keywords: time
+Response: "The current time is [current time]."
+```
+Current Date:
+
+```
+Keywords: date
+Response: "Today is [current date]."
+```
+Day of the Week:
+
+```
+Keywords: day of the week
+Response: "Today is [current day of the week]."
+```
+Latitude:
+```
+Keywords: latitude
+Response: "Your current latitude is [latitude]."
+```
+Longitude:
+```
+Keywords: longitude
+Response: "Your current longitude is [longitude]."
+```
+Weather:
+```
+Keywords: weather
+Response: "The current weather is sunny with a temperature of 25°C." 
+```
+Random Number:
+```
+Keywords: random number
+Response: "Here is a random number: [random number between 1 and 100]."
+```
+Current Month:
+```
+Keywords: current month
+Response: "The current month is [current month]."
+```
+Current Year:
+```
+Keywords: year
+Response: "The current year is [current year]."
+```
